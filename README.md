@@ -7,3 +7,6 @@
 4. [Two Sum II - Input Array Is Sorted](https://github.com/rahulsoni2684/leetcode-java/tree/main/167-two-sum-ii-input-array-is-sorted)
 5. [Rotate Array](https://github.com/rahulsoni2684/leetcode-java/tree/main/189-rotate-array)
 6. [Two Sum](https://github.com/rahulsoni2684/leetcode-java/tree/main/1-two-sum)
+7. [Search Insert Position](https://github.com/rahulsoni2684/leetcode-java/tree/main/35-search-insert-position)
+8. [Binary Search](https://github.com/rahulsoni2684/leetcode-java/tree/main/704-binary-search)
+9. [First Bad Version](https://github.com/rahulsoni2684/leetcode-java/tree/main/278-first-bad-version)
