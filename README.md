@@ -10,3 +10,4 @@
 7. [Search Insert Position](https://github.com/rahulsoni2684/leetcode-java/tree/main/35-search-insert-position)
 8. [Binary Search](https://github.com/rahulsoni2684/leetcode-java/tree/main/704-binary-search)
 9. [First Bad Version](https://github.com/rahulsoni2684/leetcode-java/tree/main/278-first-bad-version)
+10.[Reverse String](https://github.com/rahulsoni2684/leetcode-java/tree/main/344-reverse-string)
