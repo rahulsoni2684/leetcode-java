@@ -13,3 +13,5 @@
 10. [Reverse String](https://github.com/rahulsoni2684/leetcode-java/tree/main/344-reverse-string)
 11. [Reverse Words in a String III](https://github.com/rahulsoni2684/leetcode-java/tree/main/557-reverse-words-in-a-string-iii)
 12. [Median of Two Sorted Arrays](https://github.com/rahulsoni2684/leetcode-java/tree/main/4-median-of-two-sorted-arrays)
+13. [Middle of the Linked List](https://github.com/rahulsoni2684/leetcode-java/tree/main/876-middle-of-the-linked-list)
+14. [Remove Nth Node From End of List](https://github.com/rahulsoni2684/leetcode-java/tree/main/19-remove-nth-node-from-end-of-list)
