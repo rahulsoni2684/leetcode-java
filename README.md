@@ -15,3 +15,5 @@
 12. [Median of Two Sorted Arrays](https://github.com/rahulsoni2684/leetcode-java/tree/main/4-median-of-two-sorted-arrays)
 13. [Middle of the Linked List](https://github.com/rahulsoni2684/leetcode-java/tree/main/876-middle-of-the-linked-list)
 14. [Remove Nth Node From End of List](https://github.com/rahulsoni2684/leetcode-java/tree/main/19-remove-nth-node-from-end-of-list)
+15. [Longest Substring Without Repeating Characters](https://github.com/rahulsoni2684/leetcode-java/tree/main/3-longest-substring-without-repeating-characters)
+16. [Permutation in String](https://github.com/rahulsoni2684/leetcode-java/tree/main/567-permutation-in-string)
