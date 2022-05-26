@@ -17,3 +17,5 @@
 14. [Remove Nth Node From End of List](https://github.com/rahulsoni2684/leetcode-java/tree/main/19-remove-nth-node-from-end-of-list)
 15. [Longest Substring Without Repeating Characters](https://github.com/rahulsoni2684/leetcode-java/tree/main/3-longest-substring-without-repeating-characters)
 16. [Permutation in String](https://github.com/rahulsoni2684/leetcode-java/tree/main/567-permutation-in-string)
+17. [Flood Fill](https://github.com/rahulsoni2684/leetcode-java/tree/main/733-flood-fill)
+18. [Max Area of Island](https://github.com/rahulsoni2684/leetcode-java/tree/main/695-max-area-of-island)
