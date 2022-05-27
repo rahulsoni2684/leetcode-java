@@ -19,3 +19,5 @@
 16. [Permutation in String](https://github.com/rahulsoni2684/leetcode-java/tree/main/567-permutation-in-string)
 17. [Flood Fill](https://github.com/rahulsoni2684/leetcode-java/tree/main/733-flood-fill)
 18. [Max Area of Island](https://github.com/rahulsoni2684/leetcode-java/tree/main/695-max-area-of-island)
+19. [Merge Two Binary Trees](https://github.com/rahulsoni2684/leetcode-java/tree/main/617-merge-two-binary-trees)
+20. [Populating Next Right Pointers in Each Node](https://github.com/rahulsoni2684/leetcode-java/tree/main/116-populating-next-right-pointers-in-each-node)
