@@ -21,3 +21,7 @@
 18. [Max Area of Island](https://github.com/rahulsoni2684/leetcode-java/tree/main/695-max-area-of-island)
 19. [Merge Two Binary Trees](https://github.com/rahulsoni2684/leetcode-java/tree/main/617-merge-two-binary-trees)
 20. [Populating Next Right Pointers in Each Node](https://github.com/rahulsoni2684/leetcode-java/tree/main/116-populating-next-right-pointers-in-each-node)
+21. [01 Matrix](https://github.com/rahulsoni2684/leetcode-java/tree/main/542-01-matrix)
+22. [Rotting Oranges](https://github.com/rahulsoni2684/leetcode-java/tree/main/994-rotting-oranges)
+23. [Merge Two Sorted Lists](https://github.com/rahulsoni2684/leetcode-java/tree/main/21-merge-two-sorted-lists)
+24. [Reverse Linked List](https://github.com/rahulsoni2684/leetcode-java/tree/main/206-reverse-linked-list)
