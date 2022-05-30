@@ -25,3 +25,6 @@
 22. [Rotting Oranges](https://github.com/rahulsoni2684/leetcode-java/tree/main/994-rotting-oranges)
 23. [Merge Two Sorted Lists](https://github.com/rahulsoni2684/leetcode-java/tree/main/21-merge-two-sorted-lists)
 24. [Reverse Linked List](https://github.com/rahulsoni2684/leetcode-java/tree/main/206-reverse-linked-list)
+25. [Combinations](https://github.com/rahulsoni2684/leetcode-java/tree/main/77-combinations)
+26. [Permutations](https://github.com/rahulsoni2684/leetcode-java/tree/main/46-permutations)
+27. [Letter Case Permutation](https://github.com/rahulsoni2684/leetcode-java/tree/main/784-letter-case-permutation)
