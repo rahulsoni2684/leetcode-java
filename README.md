@@ -38,3 +38,7 @@
 35. [Course Schedule III](https://github.com/rahulsoni2684/leetcode-java/tree/main/630-course-schedule-iii)
 36. [Running Sum of 1d Array](https://github.com/rahulsoni2684/leetcode-java/tree/main/1480-running-sum-of-1d-array)
 37. [Construct Target Array With Multiple Sums](https://github.com/rahulsoni2684/leetcode-java/tree/main/1354-construct-target-array-with-multiple-sums)
+38. [Non-decreasing Array](https://github.com/rahulsoni2684/leetcode-java/tree/main/665-non-decreasing-array)
+39. [Find First and Last Position of Element in Sorted Array](https://github.com/rahulsoni2684/leetcode-java/tree/main/34-find-first-and-last-position-of-element-in-sorted-array)
+40. [Search in Rotated Sorted Array](https://github.com/rahulsoni2684/leetcode-java/tree/main/33-search-in-rotated-sorted-array)
+41. [Search a 2D Matrix](https://github.com/rahulsoni2684/leetcode-java/tree/main/74-search-a-2d-matrix)
